@@ -1,0 +1,23 @@
+{
+  "name": "node-studio",
+  "version": "1.0.0",
+  "description": "异步流控制",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiST-GIT/node-studio"
+  },
+  "keywords": [
+    "flow",
+    "async"
+  ],
+  "author": "LiST",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiST-GIT/node-studio/issues"
+  },
+  "homepage": "https://github.com/LiST-GIT/node-studio"
+}
